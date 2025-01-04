@@ -1,0 +1,21 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments
+.env
+.venv/
+venv/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Sensitive folders
+assignments/solutions/
+local_data/*
+!local_data/README.md

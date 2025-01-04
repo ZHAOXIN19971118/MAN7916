@@ -1,0 +1,17 @@
+MAN 7916 - Assignment 1 - Xin Zhao
+
+Python Script Output
+"Python2-40-Sed".
+"Python2-40-Sed".
+
+Disease Stigma
+1/27/2022.
+1/31/2022.
+before change, self.init_pos_test_words = init_neg_train_words;
+after change, self.init_pos_test_words = init_pos_train_words;
+The variable self.init_pos_test_words is now correctly assigned the value of init_pos_train_words.
+
+Kiley's CARMA repository
+12.
+CARMA Short Course 2021: Introduction to Python for Research.
+23.

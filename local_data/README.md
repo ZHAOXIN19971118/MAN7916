@@ -1,0 +1,1 @@
+This folder will contain corpora you will use in this class, but should not be uploaded to github.

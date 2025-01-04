@@ -1,0 +1,8 @@
+beautifulsoup4
+curl-cffi
+html5lib
+ipykernel
+nltk
+nodriver
+pandas
+pingouin

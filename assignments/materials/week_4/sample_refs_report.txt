@@ -1,0 +1,12 @@
+Names-and-dates references:
+==================================================
+Agrawal et al., 2015
+Aguinis et al., 2013
+Ahlers et al., 2015
+(...)
+
+Date-only references:
+==================================================
+For instance, Balachandra et al. (2019)
+For example, Younkin and Kuppuswamy (2018)
+(...)
