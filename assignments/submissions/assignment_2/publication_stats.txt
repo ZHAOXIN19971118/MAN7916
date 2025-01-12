@@ -1,0 +1,29 @@
+Publication Statistics Analysis
+==============================
+
+1. Correlation Analysis
+--------------------
+Correlation between publication year and citation count: -0.4193
+P-value: 0.0000
+
+2. ANOVA Analysis
+--------------------
+F-statistic: 114.8730
+P-value: 0.0000
+
+3. Mean Citations by Journal
+--------------------
+Academy of Management Journal: Mean = 72.14, SD = 100.44
+Journal of Applied Psychology: Mean = 35.42, SD = 58.00
+Personnel Psychology: Mean = 15.62, SD = 61.16
+
+4. Tukey's HSD Post-hoc Analysis
+--------------------
+                        Multiple Comparison of Means - Tukey HSD, FWER=0.05                        
+===================================================================================================
+            group1                        group2            meandiff p-adj  lower    upper   reject
+---------------------------------------------------------------------------------------------------
+Academy of Management Journal Journal of Applied Psychology -36.7185   0.0 -44.2319  -29.205   True
+Academy of Management Journal          Personnel Psychology  -56.513   0.0 -65.6871 -47.3389   True
+Journal of Applied Psychology          Personnel Psychology -19.7945   0.0 -28.0786 -11.5104   True
+---------------------------------------------------------------------------------------------------
