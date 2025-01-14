@@ -2,8 +2,6 @@ import os
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
-
-
 def explore_website():
     # Define the URL
     url = "https://pauljarley.wordpress.com/"
@@ -45,14 +43,11 @@ def explore_website():
         
     else:
         print(f"Failed to connect. Status code: {response.status_code}")
-
-
 import os
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 from collections import OrderedDict
-
 def scrape_deans_blog():
     base_url = "https://pauljarley.wordpress.com/"
     response = requests.get(base_url)
@@ -163,6 +158,5 @@ def scrape_deans_blog():
         print(f"Total comments captured: {total_comments}")
     else:
         print("No data found to save")
-
 if __name__ == "__main__":
     scrape_deans_blog()
