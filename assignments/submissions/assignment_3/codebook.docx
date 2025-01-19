@@ -1,0 +1,16 @@
+Unit of Data Collection
+The unit of data collection is each company’s official Diversity, Equity, and Inclusion (DEI) statement available on their official website or public reports. These statements typically describe the company’s commitment, goals, and actions regarding diversity, equity, and inclusion.
+
+Specificity of Goals: This construct evaluates how explicitly and clearly the DEI statement articulates specific, measurable goals related to diversity, equity, and inclusion.
+1 (Very Low): No mention of specific goals or measurable objectives; only vague aspirations or generic statements.
+2 (Low): Mentions goals, but they are vague and lack measurable or time-bound details.
+3 (Moderate): Some measurable goals are included, but they are limited in scope or lack detailed timelines and actions.
+4 (High): Includes multiple measurable and time-bound goals, though they may not cover all areas of DEI comprehensively.
+5 (Very High): Comprehensive and detailed goals across multiple DEI areas (e.g., hiring, leadership, supplier diversity), with clear, measurable, and time-bound objectives.
+
+Breadth of DEI Efforts: his construct assesses the range and inclusiveness of the company’s DEI initiatives, evaluating whether the efforts target various stakeholders and dimensions of diversity.
+1 (Very Low): Limited focus on a single aspect of DEI (e.g., hiring) without addressing other areas.
+2 (Low): Focuses on one or two dimensions (e.g., workforce diversity), but lacks initiatives targeting other stakeholders or dimensions.
+3 (Moderate): Includes initiatives targeting multiple stakeholders (e.g., employees, suppliers, customers) or multiple dimensions (e.g., gender, race, ability), but with limited depth.
+4 (High): Covers a wide range of stakeholders and dimensions with several initiatives, though not comprehensive.
+5 (Very High): Comprehensive DEI approach targeting a broad range of stakeholders (e.g., workforce, suppliers, customers, communities) and dimensions (e.g., race, gender, sexual orientation, ability) with robust programs.
