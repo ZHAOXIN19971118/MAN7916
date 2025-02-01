@@ -1,0 +1,139 @@
+The Consolidated Travel Group of Companies
+
+
+The Consolidated Travel Group of Companies is privately owned and has been a market leader in the travel business for over thirty years.
+
+Consolidated Travel is the largest privately owned and operated distributor of airline products in Australia and is now one of only two consolidators for airlines throughout Australia. With a turnover in excess of $800 million and employing some 200 highly trained and motivated staff throughout Australia, Consolidated Travel provides a range of services and facilities to over 4000 retail Travel Agents.
+
+Consolidated Travel is an IATA accredited company, a member of the Australian Federation of Travel Agents, and is bonded by the Travel Compensation Fund of Australia, offering full financial stability to Airlines.
+
+Consolidated Travel, through its GSA company "Airline Marketing Australia", is positioned to provide Airlines independent access to the total retail market where it enjoys an unrivalled distribution base.
+
+The retail agency population is largely aligned to branded retail chains or buying groups and Consolidated Travel has links to all of these groups through its own distribution, including high profile multi-location retail networks that are contractually committed to our products and form part of our core business.
+
+The Consolidated Travel Group can therefore provide Airlines with a platform upon which to increase its presence in the Australian Market that will facilitate strong support as it expands its route network into the future and provide a basis for the further development of revenue and tourism.
+
+We are independent, and proud of it. Our focus and direction is derived from not attempting to be everything to everyone, but rather to perfect our core business of airline and ticket distribution and maintain a strong position in the market.
+
+back to top 
+
+
+Consolidated Travel's Services
+
+
+Air Ticket Wholesaling
+One of Consolidated Travel's foremost functions is to issue tickets for Travel Agents on behalf of the Airlines throughout Australia which is commonly referred to as Consolidation. 
+
+Air Fare Distribution
+Consolidated Travel provides access to its fares information through its market leading database and web application QuikFares. Through QuikFares retail travel agents have access to up-to-date information on all available fares. Another web-based application is QuikFares Portal. This application allows agents to provide their clients with an easy way to search for international air fares from within there own website.
+
+Airline Representation
+Airline Marketing Australia (AMA) is a wholly owned subsidiary of the Consolidated Travel Group and acts as a General Sales Agent (GSA) for a number of Airlines in Australia.
+
+back to top 
+
+
+Technology
+
+Quikticket
+Quikticket is a web based ticketing system which allows users to retrieve PNRs directly from their PCC and issue tickets. It contains a mass of behind the scene fares, CRS and ticketing logic to make the process as simple, streamlined and efficient as possible for the user. This system talks to Sabre, Galileo and Amadeus CRS systems as well Quikfares Agency profile and ticketing databases. 
+
+Quikfares
+This is a web based fare search engine where users can check what fares are currently available by specifying at minimum the origin, destination and departure date. Fares are updated during normal business hours by the National Fares Department located in the Sydney office. 
+
+Quikfares Portal
+Quikfares portal allows an agent to integrate Quikfares search engine on their own website. A potential passenger can search for Quikfares from within the agent's website and incorporate the agent's mark up amounts. A request for a booking is then emailed along with the details of the passenger and their preferred itinerary to the agent. The agent has the ability to manage the colour schemes and mark ups to apply to their portal. 
+
+Quikfares Export
+Quikfares Export is an ongoing automatic XML feed of Quikfares to the Amadeus Negotiated (Nego) contract system. This unique Australian exclusive service allows an agent to search for Quikfares within the Amadeus environment (usually catering for online booking engine providers such as Expedia). Fares are uploaded very frequently as changes are implemented by the National Fares Department during normal business hours. This unique access to highly competitive net remit fares empowers online booking engine providers with an edge over the competition. 
+
+Quikinsurance
+Quikinsurance is a high yield, ground breaking and exclusive travel insurance product. It offers a broad range of products at competitive rates and is supported by QBE's in house Emergency Assistance Service. Quotes are automatically shown to travel agents within Quikfares when searching for fares and allows agents to easily and quickly convert the quote to a policy on the spot by integrating with the QBE TPOS website. 
+
+back to top 
+
+
+The People of Consolidated Travel
+
+
+Senior Management Team
+
+Spiros Alysandratos - Chief Executive Officer
+Spiros is the founder of the Consolidated Travel Group and is actively involved as the Chief Executive Officer. He commenced operations in Melbourne in 1967 and has developed the company into one of the largest organisations in the travel industry today. Spiros knows the company and its business intimately and is highly respected within the industry for his vision and commitment.
+
+Melvyn Almeida - Head of Business Development
+Melvyn joined the Consolidated Group in May 2007. He started his airline career with British Airways in India and in 1977 was sent to Bahrain to oversee the Reservations and Sales operations of British Airways in Bahrain & Qatar. While still in Bahrain, Melvyn was appointed the Regional Marketing Manager of the largest GSA Company in the Middle East -Kanoo Travel, which in turn supported the Wholesale, Retail & Leisure divisions of the Group, through out the Middle East. In Australia since 1987, Melvyn has held senior executive positions in both Consolidation and GSA businesses.
+
+Dennis Alysandratos - Group General Manager
+Dennis joined Consolidated Travel's senior Management Team early in 2001, when he was appointed Warwick Blacker's deputy. He commenced full time employment with Consolidated Travel in 1996. Prior to this he was restricted to part time work within Consolidated Travel due to studies, which saw him graduate from Monash University, Victoria with a Bachelor of Marketing Degree.
+
+back to top 
+
+
+Australian State Managers
+
+Adam Shepherd - Manager New South Wales/ACT
+Adam began his career in the travel industry in 1986 as a retail consultant. From there he went on to hold numerous positions in the industry before becoming involved in consolidation. Adam has had extensive experience in consolidation over the last 15 years, from ticketing and sales, through to senior management. 
+Adam joined the team at Consolidated Travel in March 2003 and soon after moved into the position of State Manager NSW/ACT.
+
+Dennis Alysandratos - Manager Victoria / Tasmania
+In addition to his Group General Manager duties (see Senior Management Team), Dennis is also the Victorian State Manager.
+
+Steven Heinrich - Manager Queensland
+Steven joined the Travel Industry in March 1989, where he spent over 6 years in consolidation in various roles. In August 1995, Steven then moved to Waterfront Travel, a retail travel agency specialising in the Japanese market where he made connections with many well known Japanese companies and continued to grow this agency for 12 years. Steven's role as Manager at Waterfront Travel saw him make many connections within the airlines. Steven also specialised in sports and group travel as well as managing the Japanese department in both inbound and outbound sales. In August 2007, Steven joined Consolidated Travel as Manager Queensland. 
+  
+Vicki Maylin  - Manager South Australia / Northern Territory
+Vicki commenced her career in the Adelaide travel industry as a junior retail consultant with Austworld Travel in 1984. Wishing to further her retail experience Vicki joined API Travel as an international consultant. After 4 years in retail sales she became involved in consolidation. Vicki joined Consolidated Travel at the inception of the Adelaide office, July 1996, as Supervisor of the fares and ticketing area. In July 2005 Vicki moved into her current role of Manager SA/NT.
+
+Kerry Coupar - General Manager Western Australia
+Kerry has been in the Travel Industry since 1978. She began as a Retail Consultant and moved on to Reservations and Ticketing for Thai Airways International in 1985, where her boss was Warwick Blacker. March 1992 saw Kerry as a Ticketing Supervisor for Air Mauritius (GSA Professional Travel). As Manager WA in 1995 for Jetworld (a division of Jetset) acted as the GSA in WA for Air India and successfully bid for the GSA Australia wide for Air Mauritius. In July 1997 Kerry moved into her current position at Consolidated Travel as Manager WA and in November opened the Airline Marketing Australia division.
+back to top 
+
+
+Airline Marketing Australia Pty Ltd
+
+
+Airline Marketing Australia is a wholly owned subsidiary of the Consolidated Travel Group of Companies. It has been established specifically to provide international airlines with a new alternative for representation in Australia.
+
+It offers airlines a more proactive and entrepreneurial representation facility than alternative organisations who are unable to offer a dedicated and consistent service due to their size and conflict in terms of carrier representations held.
+
+Airline Marketing Australia can offer incremental revenue opportunities without costs and risks associated with establishing Airlines' own presence in each of the major markets in Australia. We can provide multi-skilled staff who perform all airline related functions, including reservations and ticketing, field sales activities, as well as creative and effective marketing and promotions support that is focused on your product and with no conflicts of interest. Our local knowledge of the market and long established links provide the platform on which to maximise immediate revenue opportunities that will take full advantage of the potential in the region.
+
+Our organisation has a proven track record in successfully marketing and distributing airline product. The basis of our GSA operations is revenue driven and therefore cost-effective to the airline.
+
+Airline Marketing Australia currently represents Air Canada, Bangkok Airways, TACA Airlines and Air New Zealand Retail Sales. In addition, its affiliate Airline Marketing New Zealand represents Air Canada and Bangkok Airways, in New Zealand.
+We can offer a complete representation service that will deliver the product to the total Australian market. We can identify and develop new niche markets that will support current services and future plans with dedicated locations throughout Australia allowing Airlines to have a high profile of its own brand, yet tap into the distribution resource of the total Consolidated Travel Group.
+Airline Marketing Australia and its affiliate Airline Marketing New Zealand are emerging as a new and exciting marketing service for selected airlines that will benefit from massive cost reductions yet maximise their revenue potential.
+
+
+
+back to top
+Corporate Details
+
+Consolidated Travel Pty. Ltd.
+A.C.N. 004 692 791
+A.B.N. 60 004 692 791
+Level 7
+246 Bourke Street
+Melbourne
+VIC 3000
+
+TCF Membership No: 3/0446
+
+Airline Marketing Australia Pty. Ltd.
+A.C.N. 069 492 397
+A.B.N. 48 069 492 397
+Level 7
+246 Bourke Street
+Melbourne
+VIC 3000
+
+TCF Membership No: 3/6849
+
+Airline Marketing New Zealand Pty. Ltd.
+NZ IRD 85-900-471
+Level 14,
+140 Albert Street
+Auckland 
+New Zealand 
+back to top
